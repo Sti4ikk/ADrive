@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1fb1f06bc8594f340b10921a5814fdb0
+timeCreated: 1434223857
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_Sidewalk.mat
+  uploadId: 263063

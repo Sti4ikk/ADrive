@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1b4bcc45cde3ec84aa961983e9d408a0
+timeCreated: 1434576604
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_Crosswalk2x.mat
+  uploadId: 263063

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 811250d39039fd94fa119e8a762c9a2b
+timeCreated: 1434409012
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_CrossRoad.mat
+  uploadId: 263063

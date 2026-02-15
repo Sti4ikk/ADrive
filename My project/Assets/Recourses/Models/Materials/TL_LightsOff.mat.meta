@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83c1943540e7d3449bdbee82c41f0717
+timeCreated: 1434143562
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_LightsOff.mat
+  uploadId: 263063

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 034647845bec8f4488a0004020776572
+timeCreated: 1434216830
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_Road2x.mat
+  uploadId: 263063

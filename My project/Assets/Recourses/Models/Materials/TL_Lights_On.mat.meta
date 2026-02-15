@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15252613b28377e4896b82da84deb5cf
+timeCreated: 1434127677
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 124136
+  packageName: Traffic Lights System SE
+  packageVersion: 1.1
+  assetPath: Assets/Traffic Lights System/Models/Materials/TL_Lights_On.mat
+  uploadId: 263063
