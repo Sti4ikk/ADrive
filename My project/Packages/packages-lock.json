@@ -141,8 +141,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.dt.app-ui": {
-      "version": "2.1.1",
-      "depth": 1,
+      "version": "2.1.6",
+      "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.physics": "1.0.0",
@@ -219,7 +219,7 @@
     },
     "com.unity.nuget.newtonsoft-json": {
       "version": "3.2.2",
-      "depth": 1,
+      "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
