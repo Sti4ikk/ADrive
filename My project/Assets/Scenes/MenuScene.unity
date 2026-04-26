@@ -1258,9 +1258,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: becc304583b63034a87ae77bed2f6c9e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::MainMenuManager
-  singlePlayerSceneIndex: 0
-  windowLoadingSceneIndex: 2
+  singlePlayerSceneIndex: 1
+  windowLoadingSceneIndex: 5
   meltiPlayerSceneIndex: 4
+  multiplayersceneindex: 2
   mainMenuButtons: {fileID: 691618043}
   aboutAuthorPanel: {fileID: 407901558}
   multiplayerRoomPanel: {fileID: 401628856}

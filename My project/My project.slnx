@@ -1,7 +1,18 @@
 ﻿<Solution>
+  <Project Path="Mirror.Components.csproj" />
+  <Project Path="Edgegap.csproj" />
+  <Project Path="Mirror.Editor.csproj" />
+  <Project Path="Mirror.Examples.csproj" />
   <Project Path="Assembly-CSharp.csproj" />
+  <Project Path="Mirror.csproj" />
+  <Project Path="Unity.Mirror.CodeGen.csproj" />
+  <Project Path="SimpleWebTransport.csproj" />
+  <Project Path="Mirror.Authenticators.csproj" />
+  <Project Path="kcp2k.csproj" />
+  <Project Path="Mirror.Transports.csproj" />
   <Project Path="PhotonUnityNetworking.csproj" />
   <Project Path="PhotonUnityNetworking.Demos.csproj" />
+  <Project Path="Telepathy.csproj" />
   <Project Path="PhotonUnityNetworking.Utilities.csproj" />
   <Project Path="Assembly-CSharp-Editor.csproj" />
   <Project Path="Unified.Universal.Blur.Editor.csproj" />
@@ -9,8 +20,10 @@
   <Project Path="PhotonChat.csproj" />
   <Project Path="PhotonUnityNetworking.Editor.csproj" />
   <Project Path="Unified.Universal.Blur.csproj" />
+  <Project Path="Mirror.CompilerSymbols.csproj" />
   <Project Path="PhotonUnityNetworking.Utilities.PhotonPlayer.Editor.csproj" />
   <Project Path="PhotonUnityNetworking.Utilities.Culling.Editor.csproj" />
   <Project Path="PunDemos.DemoSlotcarEditor.csproj" />
+  <Project Path="EncryptionTransportEditor.csproj" />
   <Project Path="PunDemos.DemoHubEditor.csproj" />
 </Solution>

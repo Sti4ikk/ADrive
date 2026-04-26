@@ -8,7 +8,7 @@ public class windowLoading : MonoBehaviour
     [Header("Компоненты")]
     [SerializeField] private VideoPlayer videoPlayer;
     [SerializeField] private Canvas mainCanvas;
-    [SerializeField] private int singlePlayerSceneIndex = 2;
+    [SerializeField] private int singlePlayerSceneIndex = 1;
 
     [Header("Настройки")]
     [SerializeField] private float delayAfterVideo = 1f;   // ← Здесь настраивай задержку (0.3–0.8 сек обычно идеально)

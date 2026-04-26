@@ -11,8 +11,8 @@ using UnityEngine.UI;
 public class MainMenuManager : MonoBehaviour
 {
     [Header("Сцены")]
-    [SerializeField] private int singlePlayerSceneIndex = 0;
-    [SerializeField] private int windowLoadingSceneIndex = 2;
+    [SerializeField] private int singlePlayerSceneIndex = 1;
+    [SerializeField] private int windowLoadingSceneIndex = 5;
     [SerializeField] private int meltiPlayerSceneIndex = 4;
     [SerializeField] private int multiplayersceneindex = 3;
     

@@ -1,0 +1,15 @@
+================================================================================
+  DRIVING SIMULATOR - LOG FILE
+  Session ID: abf8a8c9
+  Start Time: 2026-04-26 16:29:06
+  Unity Version: 6000.3.2f1
+  Platform: WindowsEditor
+================================================================================
+
+[16:29:06.131] [SYSTEM      ] [LOG     ] Логгер инициализирован
+[16:29:06.135] [SYSTEM      ] [LOG     ] Локализация инициализирована. Всего ключей: 70
+[16:29:06.136] [SYSTEM      ] [LOG     ] Язык автоопределен: Russian (системный: Russian)
+[16:29:07.024] [SYSTEM      ] [LOG     ] Главное меню загружено
+[16:29:13.261] [GAME        ] [LOG     ] EVENT: SceneLoad | Data: Scene: SinglePlayer
+[16:29:13.261] [GAME        ] [LOG     ] EVENT: GameModeSelected | Data: Mode: SinglePlayer
+[16:29:16.687] [SYSTEM      ] [LOG     ] Приложение закрывается. Длительность сессии: 00:00:10
