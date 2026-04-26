@@ -1,0 +1,15 @@
+================================================================================
+  DRIVING SIMULATOR - LOG FILE
+  Session ID: 55f02bf1
+  Start Time: 2026-02-27 15:20:47
+  Unity Version: 6000.3.2f1
+  Platform: WindowsEditor
+================================================================================
+
+[15:20:47.341] [SYSTEM      ] [LOG     ] Логгер инициализирован
+[15:20:47.347] [SYSTEM      ] [LOG     ] Локализация инициализирована. Всего ключей: 70
+[15:20:47.349] [SYSTEM      ] [LOG     ] Язык автоопределен: Russian (системный: Russian)
+[15:20:49.011] [SYSTEM      ] [LOG     ] Главное меню загружено
+[15:20:51.898] [GAME        ] [LOG     ] EVENT: GameModeSelected | Data: Mode: Multiplayer
+[15:20:51.899] [NETWORK     ] [LOG     ] ConnectAttempt: Connecting to Photon...
+[15:21:43.449] [SYSTEM      ] [LOG     ] Приложение закрывается. Длительность сессии: 00:00:56

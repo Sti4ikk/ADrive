@@ -4,26 +4,6 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/SoloGameScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/Scenes/MenuScene.unity
-    guid: bd250d5394748ff44a0fa607376e850b
-  - enabled: 1
-    path: Assets/Scenes/WindowLoadingScene.unity
-    guid: cdaf8e73fbd2f4444963306aa440a447
-  - enabled: 1
-    path: Assets/Scenes/Online/Loading.unity
-    guid: 8d37b10c5747d7843b9d4822f2ee4440
-  - enabled: 1
-    path: Assets/Scenes/Online/menu.unity
-    guid: 27934eed5717c664db35ff415b11f0e1
-  - enabled: 1
-    path: Assets/Scenes/Online/SampleScene.unity
-    guid: 1df2b8b5fe3f6fa429974411ead64b31
-  m_configObjects:
-    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_Scenes: []
+  m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
